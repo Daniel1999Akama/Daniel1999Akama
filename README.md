@@ -17,7 +17,6 @@
 
 - ⚡ Fun fact **My favorite sitcoms of all time: The Big Bang Theory and The Office**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
