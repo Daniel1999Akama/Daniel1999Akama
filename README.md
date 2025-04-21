@@ -3,19 +3,19 @@
 
 - 🔭 I’m currently working on **Pneumonia predictive models**
 
-- 👯 I’m looking to collaborate on **Health Informatics Projects**
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Daniel1999Akama](https://github.com/Daniel1999Akama)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/danielakamanyamweya/](https://www.linkedin.com/in/danielakamanyamweya/)
 
-- 💬 Ask me about **AI and its applications in healthcare**
+- 💬 Ask me about **AI and its applications**
 
 - 📫 How to reach me **danielakama23@gmail.com**
 
 - 📄 Know about my experiences [https://daniel1999akama.github.io/Daniel-Akama-Nyamweya-Portfolio/](https://daniel1999akama.github.io/Daniel-Akama-Nyamweya-Portfolio/)
 
-- ⚡ Fun fact **My favorite sitcoms of all time: The Big Bang Theory and The Office**
+- ⚡ Fun fact **My favorite sitcoms of all time: The Big Bang Theory and The Office. I only watch the 2**
 
 <p align="left">
 </p>
