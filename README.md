@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Akama Nyamweya</h1>
 <h3 align="center">Data Scientist.</h3>
 
-- 🔭 I’m currently working on **Pneumonia predictive models**
+- 🔭 I’m currently working on **ML ops**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Machine Learning Operations Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Daniel1999Akama](https://github.com/Daniel1999Akama)
 
