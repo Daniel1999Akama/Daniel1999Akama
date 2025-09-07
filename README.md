@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Akama Nyamweya</h1>
+<h1 align="center">Salutations 👋, I'm Daniel Akama Nyamweya</h1>
 <h3 align="center">Data Scientist.</h3>
 
 - 🔭 I’m currently working on **ML ops**
