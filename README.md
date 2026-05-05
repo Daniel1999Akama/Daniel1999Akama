@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on **AI automation Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Daniel1999Akama](https://github.com/Daniel1999Akama)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Daniel1999Akama)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/danielakamanyamweya/](https://www.linkedin.com/in/danielakamanyamweya/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/danielakamanyamweya/)
 
 - 💬 Ask me about **How AI will shape IT support**
 
