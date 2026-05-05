@@ -1,21 +1,21 @@
 <h1 align="center">Salutations 👋, I'm Daniel Akama Nyamweya</h1>
 <h3 align="center">Data Scientist.</h3>
 
-- 🔭 I’m currently working on **ML ops**
+- 🔭 I’m currently working on **AI automation Projects**
 
-- 👯 I’m looking to collaborate on **Machine Learning Operations Projects**
+- 👯 I’m looking to collaborate on **AI automation Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Daniel1999Akama](https://github.com/Daniel1999Akama)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/danielakamanyamweya/](https://www.linkedin.com/in/danielakamanyamweya/)
 
-- 💬 Ask me about **AI and its applications**
+- 💬 Ask me about **How AI will shape IT support**
 
 - 📫 How to reach me **danielakama23@gmail.com**
 
-- 📄 Know about my experiences [https://daniel1999akama.github.io/Daniel-Akama-Nyamweya-Portfolio/](https://daniel1999akama.github.io/Daniel-Akama-Nyamweya-Portfolio/)
+- 📄 Know about my experiences [Personal Portfolio](https://my-portfolio-app.base44.app/)
 
-- ⚡ Fun fact **My favorite sitcoms of all time: The Big Bang Theory and The Office. I only watch the 2**
+- ⚡ Testimony **Aside from working out and trying new recipes, I am a follower of Christ Jesus.**
 
 <p align="left">
 </p>
